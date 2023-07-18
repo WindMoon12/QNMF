@@ -1,2 +1,2 @@
 # QNMF
-QCNN used in QNMF
+Datasets used in QNMF
