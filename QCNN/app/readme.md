@@ -1,1 +1,1 @@
-Load prepocessed data.
+Load prepocessed data and train.
